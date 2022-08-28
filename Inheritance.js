@@ -55,14 +55,6 @@ console.log(muhammadAccount);
 
 
 
-
-
-
-
-
-
-
-
 // function BankAccount(customerName, balance=0) {
 //     this.customerName = customerName;
 //     this.accountNumber = Date.now();
